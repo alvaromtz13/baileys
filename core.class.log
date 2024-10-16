@@ -1,0 +1,311 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216621414643@s.whatsapp.net',
+    fromMe: false,
+    id: '3AA7FC808B3A9F5E86F8',
+    participant: undefined
+  },
+  messageTimestamp: 1729079081,
+  pushName: 'Alvaro Martinez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Guardar:proveedores: Juan Pérez, 555-12334',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Guardar:proveedores: Juan Pérez, 555-12334',
+  from: '5216621414643'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b21690cd-b2bd-4b2e-b2c9-c731bae8a959',
+  keyword: 'key_9f563d23-9770-407a-a08a-be22835e8e5f',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '32b9b8eb047f5cd0aec6e2dc52b29303'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216621414643@s.whatsapp.net',
+    fromMe: false,
+    id: '3AC58AF611C59AD9E6FD',
+    participant: undefined
+  },
+  messageTimestamp: 1729079104,
+  pushName: 'Alvaro Martinez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Leer:proveedores',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Leer:proveedores',
+  from: '5216621414643'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b21690cd-b2bd-4b2e-b2c9-c731bae8a959',
+  keyword: 'key_9f563d23-9770-407a-a08a-be22835e8e5f',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '32b9b8eb047f5cd0aec6e2dc52b29303'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216621414643@s.whatsapp.net',
+    fromMe: false,
+    id: '3A301B10554208D91BFF',
+    participant: undefined
+  },
+  messageTimestamp: 1729079175,
+  pushName: 'Alvaro Martinez',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      annotations: [],
+      url: 'https://mmg.whatsapp.net/v/t62.7118-24/35863551_895009459397052_6998907002926005396_n.enc?ccb=11-4&oh=01_Q5AaIEkfZPZo2nSL82QMjhmOuXeTybdvUAG_8mJ7samIK7fy&oe=6737251B&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1600,
+      width: 900,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7118-24/35863551_895009459397052_6998907002926005396_n.enc?ccb=11-4&oh=01_Q5AaIEkfZPZo2nSL82QMjhmOuXeTybdvUAG_8mJ7samIK7fy&oe=6737251B&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      contextInfo: [ContextInfo],
+      firstScanSidecar: [Uint8Array],
+      firstScanLength: 12483,
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: '_event_media__dfb9d0f6-bcf5-4ef4-b742-e1801ec6c388',
+  from: '5216621414643'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a075f44f-a863-4095-999d-54b31adb6033',
+  keyword: 'key_e80be54d-eb8b-4a43-a59b-260dfb06ef3f',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '80a7aeb5ff737fae6fdd5a7cc90ecf78'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216621414643@s.whatsapp.net',
+    fromMe: false,
+    id: '3A4CA4AF13AC08B31C0D',
+    participant: undefined
+  },
+  messageTimestamp: 1729079305,
+  pushName: 'Alvaro Martinez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Guardar:ventas de la terminal: 865, 17 de octubre',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Guardar:ventas de la terminal: 865, 17 de octubre',
+  from: '5216621414643'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b21690cd-b2bd-4b2e-b2c9-c731bae8a959',
+  keyword: 'key_9f563d23-9770-407a-a08a-be22835e8e5f',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '32b9b8eb047f5cd0aec6e2dc52b29303'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216621414643@s.whatsapp.net',
+    fromMe: false,
+    id: '3A5BBA13AA1B1E4CF4A2',
+    participant: undefined
+  },
+  messageTimestamp: 1729079318,
+  pushName: 'Alvaro Martinez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Leer:ventas de la terminal',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Leer:ventas de la terminal',
+  from: '5216621414643'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b21690cd-b2bd-4b2e-b2c9-c731bae8a959',
+  keyword: 'key_9f563d23-9770-407a-a08a-be22835e8e5f',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '32b9b8eb047f5cd0aec6e2dc52b29303'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216621414643@s.whatsapp.net',
+    fromMe: false,
+    id: '3A681FEDFD8A7990AC00',
+    participant: undefined
+  },
+  messageTimestamp: 1729079330,
+  pushName: 'Alvaro Martinez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Limpiar ventas de la terminal',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Limpiar ventas de la terminal',
+  from: '5216621414643'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b21690cd-b2bd-4b2e-b2c9-c731bae8a959',
+  keyword: 'key_9f563d23-9770-407a-a08a-be22835e8e5f',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '32b9b8eb047f5cd0aec6e2dc52b29303'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5216621414643@s.whatsapp.net',
+    fromMe: false,
+    id: '3AAA58DAEA8991C068DF',
+    participant: undefined
+  },
+  messageTimestamp: 1729080068,
+  pushName: 'Alvaro Martinez',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Qué sistema de IA puedo usar para administrar mi abarrotes?',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Qué sistema de IA puedo usar para administrar mi abarrotes?',
+  from: '5216621414643'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b21690cd-b2bd-4b2e-b2c9-c731bae8a959',
+  keyword: 'key_9f563d23-9770-407a-a08a-be22835e8e5f',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '32b9b8eb047f5cd0aec6e2dc52b29303'
+}
